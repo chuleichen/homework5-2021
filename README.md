@@ -1,2 +1,2 @@
-# homework5-2021
-This is homework 5 of SI539.
+# hw5-2021
+Grid Homework
