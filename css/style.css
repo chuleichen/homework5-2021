@@ -98,7 +98,6 @@ nav a:hover, nav a:focus {
   grid-template-columns: 1fr 3fr 3fr 1fr;
   grid-template-rows: auto auto auto auto;
   grid-row-gap: 20px;
-  align-items: center;
 }
 
 header{
@@ -165,6 +164,7 @@ header{
   /*Your code here:*/
   text-align: center;
   vertical-align: middle;
+  align-self: center;
 }
 
 
@@ -193,6 +193,7 @@ header{
   .about, .client, .method-image, .contact-image{
     /*Your code here:*/
     grid-column: 3 / span 2;
+    max-height: 100%;
   }
 
   /*Req 13*/
