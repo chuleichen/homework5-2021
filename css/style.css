@@ -193,7 +193,6 @@ header{
   .about, .client, .method-image, .contact-image{
     /*Your code here:*/
     grid-column: 3 / span 2;
-    max-height: 100%;
   }
 
   /*Req 13*/
